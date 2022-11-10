@@ -1,0 +1,6 @@
+body, html {
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+background: linear-gradient(135deg, rgb(78, 3, 77) 20%, rgb(12, 12, 81) 100%);
+}
